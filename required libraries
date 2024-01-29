@@ -1,0 +1,8 @@
+# required libraries
+
+1. import pandas 
+2. import re
+3. from sklearn.feature
+4. import numpy
+5. import ipywidgets
+6. from IPython
