@@ -1,8 +1,6 @@
-# required libraries
-
-1. import pandas 
-2. import re
-3. from sklearn.feature
-4. import numpy
-5. import ipywidgets
-6. from IPython
+1. import pandas [ https://pypi.org/project/pandas/ ]
+2. import re [ https://pypi.org/project/regex/ ] 
+3. from sklearn.feature [ https://pypi.org/project/sklearn-features/ ] 
+4. import numpy [ https://pypi.org/project/numpy/ ] 
+5. import ipywidgets [ https://pypi.org/project/ipywidgets/ ] 
+6. from IPython [  https://pypi.org/project/ipython/ ] 
